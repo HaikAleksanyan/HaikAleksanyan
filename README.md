@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 hi, i'm Hayk, a passionate Dev/Ops skilled back-end web developer and a freelance software engineer from Armenia. I am experienced designing and developing enterprise solutions for projects and I take great care in the experience, architecture, and code quality of the things I build.
